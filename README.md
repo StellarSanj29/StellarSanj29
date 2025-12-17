@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjana
-- 👀 I👀 Interested in Data Analytics, AI & Machine Learning
+- 👀 Interested in Data Analytics, AI & Machine Learning
 - 🌱 Currently learning SQL, Python, Data Visualization, and core ML concepts
 - 💞️ Looking to collaborate on data analysis and entry-level AI projects
 - 😄 Pronouns: she/her
